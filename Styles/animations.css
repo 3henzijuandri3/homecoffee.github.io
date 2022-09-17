@@ -1,0 +1,178 @@
+/* Landing Animation */
+@keyframes landingh2 {
+    0% {
+        transform: translateX(-120px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes landingh4 {
+    0% {
+        transform: translateX(120px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes landingbutton {
+    0% {
+        transform: translateY(120px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes landingcangkir {
+    0% {
+        transform: translateX(120px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+/* *************************************************** */
+
+/* About Animation */
+@keyframes about {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes img_about {
+    0% {
+        transform: translateX(-300px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes about_text {
+    0% {
+        transform: translateX(300px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+/* *************************************************** */
+
+
+/* Menu Animation */
+@keyframes best_seller {
+    0% {
+        transform: translateX(-200px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+
+}
+
+@keyframes fnb {
+    0% {
+        transform: translateX(200px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+
+}
+
+@keyframes bev {
+    0% {
+        transform: translateY(-12px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+
+}
+
+@keyframes card {
+    0% {
+        transform: scale(0);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+
+}
+/* *************************************************** */
+
+
+/* Reserve Animation */
+@keyframes maps {
+    0% {
+        transform: rotate(-45deg);
+        opacity: 0;
+    }
+
+    100% {
+        transform: rotate(0);
+        opacity: 1;
+    }
+        
+}
+
+@keyframes info {
+    0% {
+        transform: translateY(-80px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+        
+}
+
+@keyframes location_point {
+    0% {
+        transform: translateY(-20px);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+
+}
+/* *************************************************** */
